@@ -1,0 +1,6 @@
+1. The dig command output gives the IP address for the domain name you provide 
+
+
+
+
+3. dig +noall +answer umich.edu
